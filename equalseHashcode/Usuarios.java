@@ -18,5 +18,5 @@ public class Usuarios {
 	} else {
 			return false; 
 		}
-	}
+	} // o hashcode vai ser abordado em outra aula 
 }
